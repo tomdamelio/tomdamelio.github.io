@@ -1,7 +1,7 @@
 ---
 title: Tomás A. D'Amelio
 role: Neuro + Data Scientist
-avatar_filename: ""
+avatar_filename: 1_wjpyi7e9ww7jbhzeif0k3w.jpeg
 bio: My research interests include affective computing, physiological signal
   processing and statistical learning.
 interests:
