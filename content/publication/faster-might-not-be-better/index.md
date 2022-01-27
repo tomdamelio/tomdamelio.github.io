@@ -1,7 +1,7 @@
 ---
-title: "\t Faster might not be better: "
-subtitle: pictures may not elicit a stronger unconscious priming effect than
-  words when modulated by semantic similarity
+title: "\t Faster might not be better: pictures may not elicit a stronger
+  unconscious priming effect than words when modulated by semantic similarity"
+subtitle: ""
 publication_types:
   - "2"
 authors:
