@@ -4,7 +4,7 @@ url_pdf: ""
 summary: Regression pipeline to predict EDA (and EMG) activity with data
   obtained from EEG recordings.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: "Predicting modelling of arousal: an analysis of a public EEG and EDA database"
@@ -18,7 +18,7 @@ links:
     name: Follow
     url: https://github.com/tomdamelio/ arousal decoding
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
