@@ -1,41 +1,44 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
+slides: example
+url_pdf: ""
+summary: Regression pipeline to predict EDA (and EMG) activity with data
+  obtained from EEG recordings.
+url_video: ""
+date: 2016-04-27T00:00:00Z
 external_link: ""
-
+url_slides: ""
+title: "Predicting modelling of arousal: an analysis of a public EEG and EDA database"
+tags:
+  - EEG
+  - EDA
+  - Prediction
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://github.com/tomdamelio/ arousal decoding
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
+## Objectives
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+* Disentangle the relationship between the EDA (electrodermal activity) response and EEG predictors.
+* Evaluate the performance of our self-reported arousal decoding models.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+## [](https://github.com/tomdamelio/arousal_decoding#key-points)Key points
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+* A regression pipeline to predict EDA (and EMG) activity at the event-level with the data obtained from EEG recordings has been implemented.
+* Considering linear models were used, it has been possible to observe patterns of activity at the sensor level in terms of the main components of the predictions.
+* We introduced a novel methodology for understanding the dynamics between central and peripheral nervous system signals, and their corresponding behavioural measures.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+## Our approach
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+First, EDA decoding from EEG would be performed, with the idea of boosting high-resolution signals in each subject. Thus, we would train models with continuous inputs (i.e. EDA) and outputs (i.e. EEG) in order to extract as much information as possible from each subject to learn different subject-level function approximations. As an output of this first step, we would represent arousal with a predicted EDA version. This predicted signal would indirectly portray the coupling of autonomic and cerebral arousal, as it is the result of the sum of the EEG features weighted by the different coefficients generated after the fitting process with the EDA output data. This would allow making use of the richness of these signals in a unique representation at the subject level. In this way, the predicted arousal would contain information that is not included in the original EDA data. Consequently, in a second step, we would predict self-reported arousal from the predicted EDA, constituting the second part of the proposed statistical learning approach.
+
+![alt text](https://github.com/tomdamelio/arousal_decoding/raw/master/Fig%20-%20Thesis%20-%20two-step-approach_Mesa%20de%20trabajo%201.png)
+
+## Code Availability
+
+The source code of the implementations used to compute organization, processing and statistical analyses can be obtained from
