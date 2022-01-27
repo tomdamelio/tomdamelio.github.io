@@ -8,7 +8,7 @@ interests:
   - Affective Computing
   - Physiological Signal Processing
   - EEG
-  - Peripheral measures (EDA/EMG/HRV)
+  - Peripheral measures (EDA/EMG/ECG)
   - Statistical Learning
 social:
   - icon: envelope
