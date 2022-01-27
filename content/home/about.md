@@ -6,4 +6,7 @@ weight: 20
 title: Who am I?
 active: true
 author: admin
+design:
+  background:
+    image: foto_perfil.png
 ---
