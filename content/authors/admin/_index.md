@@ -45,6 +45,6 @@ email: tomasdamelio@psi.uba.ar
 superuser: true
 highlight_name: true
 ---
-
+UBACyT MSc Fellow (Buenos Aires, Argentina) and Eyetracker Software Engineer at Purple Gaze Inc. I am currently interested in how statistical learning methods can be used to better understand the physiological correlates of affective states.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
