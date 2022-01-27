@@ -6,8 +6,10 @@ bio: My research interests include affective computing, physiological signal
   processing and statistical learning.
 interests:
   - Affective Computing
-  - Physiological Signal Processing (EEG and peripheral measures)
-  - Statistical Learning.
+  - Physiological Signal Processing
+  - EEG
+  - Peripheral measures (EDA/EMG/HRV)
+  - Statistical Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,9 +26,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tom%C3%A1s-ariel-d-amelio-a546aa7a/
-organizations:
-  - name: University of Buenos Aires
-    url: ""
+organizations: []
 education:
   courses:
     - course: Master’s Degree in Data Mining and Knowledge Discovery (M1+M2)
