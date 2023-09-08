@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+---
 {% include base_path %}
 
 Education
@@ -16,18 +16,20 @@ Education
 * Bachelor's Degree in Psychology, University of Buenos Aires (UBA), Argentina
 * Bachelor's Degree in Advertising, University of Business and Social Sciences (UCES), Argentina
 
+---
+
 Work experience
 ======
-* PhD Candidate: 
+* **PhD Candidate**: 
   * I am working on a better understanding of temporal dynamics of affective states from a predictive modeling approach, using machine learning techniques and multimodal neural measures (e.g. EEG, EDA and EMG).
   * Supervisor: Dr. Enzo Tagliazucchi 
 
-* Neuro / Data Scientist: Research Assistant
+* **Neuro / Data Scientist: Research Assistant**
   * Responsible for designing, building, testing, and maintaining efficient, reusable, and reliable code for the applications gallery and translating neuroscience experiments into code.
   * Develop data analysis pipeline from eye-tracking data.
   * Purple Gaze develops eye-tracking software and hardware that helps researchers to learn more about the brain and identify neurological disorders by enabling them to collect and analyze high-quality eye movement data.
 
-* Research Intern, University of Buenos Aires (UBA), Argentina
+* **Research Intern, University of Buenos Aires (UBA), Argentina**
   * Manager and main developer of the project: 
     * Prediction of affective states in EEG and skin conductance databases: [GitHub](https://github.com/tomdamelio/arousal_decoding). 
     * We introduced a novel methodology for understanding the dynamics between central and peripheral nervous system signals, and their corresponding behavioural measures.
@@ -35,22 +37,24 @@ Work experience
     * Supervised by Dr. Denis A. Engemann
     * *MNE Python - scikit-learn - pandas - NumPy - matplotlib - R - LaTeX* 
 
-* Research Assistant, Behavioral Biology Lab (IByME - CONICET)
+* **Research Assistant, Behavioral Biology Lab (IByME - CONICET), Argentina**
   * Responsible for a project involving the measurement of bilateral electrodermal activity during emotional task. 
-  * *R - Python - Psychopy
+  * R - Python - Psychopy
 
-* Research Assistant, Institute of Neurosciences, University of Barcelona (UB), Spain
+* **Research Assistant, Institute of Neurosciences, University of Barcelona (UB), Spain**
   * Responsible of setting up a new study validating a serious game for improving attentional processes in children with ADHD and dyslexia.
     * The game was an interactive eye tracking game and combines behavioural measures, neuropsychological tests and eye tracking methodology.
     * This work has been done in collaboration with Braingaze, a spin-off company developing diagnostic and treatment methods based on eyetracking technology.
     * Supervised by Dr. Hans Supèr, ICREA researcher and [Braingaze](https://braingaze.com/) Co-founder and CTO
     * Python - R - ggplot2
 
-* Research Assistant, University of Buenos Aires (UBA), Argentina 
+* **Research Assistant, University of Buenos Aires (UBA), Argentina** 
   * Assistance in the project "Contextual control of learning concepts: Neural network model and human experiments" directed by Dr. Alberto Andrés Iorio.
   * Academic research and experimental design.
   * Psychophysiological and behavioral data collection, cleaning and analysis.
   * MATLAB - SPSS
+
+---
 
 Skills
 ======
@@ -61,24 +65,32 @@ Skills
 * LaTex
 * Data Science
 
+---
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Awards
 ======
 * Winner of ACII 2023 Chen Science Writer grant. July 2023.
@@ -91,6 +103,8 @@ Awards
 * Winner of the National Interuniversity Council (CIN) Research Fellowship.} November 2017.
 * Winner of a full Scholarship to attend a semester at the University of Barcelona as exchange student (Ibero-America - University of Barcelona). 1st place due to academic merit - University of Buenos Aires. May 2017
 
+---
+
 Science communication and community building
 ======
 
@@ -102,10 +116,14 @@ Science communication and community building
 
 * Co-founder and team leader of [NeuroTechX Buenos Aires](https://neurotechx.com/), a local chapter of a non-profit organization whose mission is to facilitate the advancement of neurotechnology by providing critical resources and learning opportunities, and by leading local and global technology initiatives.
 
+---
+
 Memberships
 ===
 * [Association for the Advancement of Affective Computing (AAAC)](https://acii-conf.net/). May 2023 
 * [Asociación Argentina de Ciencias del Comportamiento](https://aacconline.org.ar/). January 2020
+
+---
 
 References
 ======
