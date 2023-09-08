@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tomás D'amelio"
+  name             : "Tomás D'Amelio"
   avatar           : "profile.png"
   bio              : "🔍 Trying to Understand Human Emotions with Predictive Modelling 📈 | Affective Neuroscience 🧠 + Affective Computing 💻"
   location         : "Buenos Aires, Argentina"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gldnmWMAAAAJ&hl=en&oi=ao"
-  email            :  "tomasdamelio@gmail.com"
+  email            :  "dameliotomas@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
