@@ -11,10 +11,18 @@ redirect_from:
 
 Education
 ======
-* Master's Degree in Cognitive Science (M2), École Normale Supérieure (ENS), France
-* Master's Degree in Data Mining and Knowledge Discovery (M1-M2), University of Buenos Aires (UBA), Argentina
-* Bachelor's Degree in Psychology, University of Buenos Aires (UBA), Argentina
-* Bachelor's Degree in Advertising, University of Business and Social Sciences (UCES), Argentina
+* **Master's Degree in Cognitive Science** (M2), École Normale Supérieure (ENS), France
+  * GPA: 16.18 / 20. 1-year program
+  * Main courses: Robotics and cognitive science, Augmented Cognition, Visual perception, Cognitive neuroscience of consciousness, Behavioral and Neuronal Economics, Psychology and Public Policy
+* **Master's Degree in Data Mining and Knowledge Discovery** (M1-M2), University of Buenos Aires (UBA), Argentina
+  * GPA: 9 / 10. 1-year program
+  * Main courses: Machine learning, Time Series, Neural Networks, Data visualization, Text Mining, Data Mining in Science and Technology, Data Mining in Economics and Finance. 
+* **Bachelor's Degree in Psychology**, University of Buenos Aires (UBA), Argentina
+  * GPA: 9.06 / 10. 6-year program
+  * Six-month stay as an exchange student at the University of Barcelona (UB), Spain. 
+* **Bachelor's Degree in Advertising**, University of Business and Social Sciences (UCES), Argentina
+  * GPA: 9.13 / 10. 4-year program 
+  * Awarded as best 'Final year project'
 
 ---
 
@@ -64,6 +72,14 @@ Skills
 * Git
 * LaTex
 * Data Science
+
+---
+
+Languages
+======
+* 🇦🇷 Spanish, native (C2)
+* 🇬🇧 English, proficient (IELTS - C1)
+* 🇮🇹 Italian, proficient (Esame di Stato - C1)
 
 ---
 
