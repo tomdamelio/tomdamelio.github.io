@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master's Degree in Cognitive Science (M2), École Normale Supérieure (ENS), France
+* Master's Degree in Data Mining and Knowledge Discovery (M1-M2), University of Buenos Aires (UBA), Argentina
+* Bachelor's Degree in Psychology, University of Buenos Aires (UBA), Argentina
+* Bachelor's Degree in Advertising, University of Business and Social Sciences (UCES), Argentina
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD Candidate: 
+  * I am working on a better understanding of temporal dynamics of affective states from a predictive modeling approach, using machine learning techniques and multimodal neural measures (e.g. EEG, EDA and EMG).
+  * Supervisor: Dr. Enzo Tagliazucchi 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Neuro / Data Scientist: Research Assistant
+  * Responsible for designing, building, testing, and maintaining efficient, reusable, and reliable code for the applications gallery and translating neuroscience experiments into code.
+  * Develop data analysis pipeline from eye-tracking data.
+  * Purple Gaze develops eye-tracking software and hardware that helps researchers to learn more about the brain and identify neurological disorders by enabling them to collect and analyze high-quality eye movement data.
+
+* Neuro / Data Scientist: Research Assistant
+  * Responsible for designing, building, testing, and maintaining efficient, reusable, and reliable code for the applications gallery and translating neuroscience experiments into code.
+  * Develop data analysis pipeline from eye-tracking data.
+  * Purple Gaze develops eye-tracking software and hardware that helps researchers to learn more about the brain and identify neurological disorders by enabling them to collect and analyze high-quality eye movement data.
   
 Skills
 ======
