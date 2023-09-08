@@ -16,4 +16,4 @@ Research
 ===
 My main research interest is emotion prediction using both central (e.g. EEG) and peripheral (e.g. ECG, EMG, EDA) signals. I apply machine learning models to better understand the temporal dynamics of emotions.
 
-Beyond science, I'm very interested in technology transfer in neuroscience and cognitive science, especially in startups within the NeuroTech ecosystem. For example, I co-founded the Buenos Aires chapter of the global NeuroTechX community. And I am also co-founder of NeuroTransmitiendo, a multi-platform project for public communication of neuroscience and psychology in Latin America.
+Beyond science, I'm very interested in technology transfer in neuroscience and cognitive science, especially in startups within the NeuroTech ecosystem. For example, I co-founded the Buenos Aires chapter of the global NeuroTechX community. And I am also co-founder of [NeuroTransmitiendo](https://www.neurotransmitiendo.org/), a multi-platform project for public communication of neuroscience and psychology in Latin America.

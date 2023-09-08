@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Director Diploma in Cognitive Neuroscience and Experimental Psychology"
 collection: teaching
-type: "Undergraduate course"
+type: "Diploma"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universidad Abierta Interamericana"
+date: 2021-03-01
+location: "Buenos Aires, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Leading a teaching staff of 20 instructors (PhDs, MScs and BAs)
+* Training coordinator in cognitive neuroscience methods: fMRI, TMS, electrodermal activity, HRV, EMG, eye-tracking and neural recording methods in animal models.
+* *Data science oriented*: the focus is on providing Python and R tools for data analysis of the different psychophysiological methods, as well as ensuring that the appropriate statistical methods are used according to the question to be addressed (e.g. frequentist statistics, machine learning, etc.).
