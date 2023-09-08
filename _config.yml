@@ -85,7 +85,7 @@ author:
   bio              : "🔍 Trying to Understand Human Emotions with Predictive Modelling 📈 | Affective Neuroscience 🧠 + Affective Computing 💻"
   location         : "Buenos Aires, Argentina"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gldnmWMAAAAJ&hl=en&oi=ao"
   email            :  "tomasdamelio@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tomdamelio?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "tom%C3%A1s-ariel-d-amelio-a546aa7a/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/tomasdamelio"
+  twitter          : "tomasdamelio"
   vine             :
   weibo            :
   xing             :
