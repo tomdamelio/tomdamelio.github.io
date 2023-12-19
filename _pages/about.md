@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tomás D'Amelio, a researcher (in progress) and lecturer working at the intersection of *affective neuroscience* and *affective computing*. 
+I am Tomás D'Amelio, deeply involved in explore and teaching at the intersection of *affective neuroscience* and *affective computing*. 
 
 My academic background at the University of Buenos Aires, the University of Barcelona, and the École Normale Supérieure (Paris) provided me with training in **psychology**, **neuroscience**, and **machine learning** to:
 
@@ -20,6 +20,8 @@ My academic background at the University of Buenos Aires, the University of Barc
 Beyond the academic world, I am passionate about making knowledge of neuroscience and human behavior accessible and beneficial to different sectors of society.
 
 In this pursuit, I co-founded [Neurotransmitiendo](https://www.neurotransmitiendo.org/), a communication and education NGO in neuroscience and psychology in Latin America with a 20,000 community. Additionally, I am the team leader of [NeuroTechX](https://neurotechx.com/) Buenos Aires, where we endeavor to grow the neurotech industry in the region. 
+
+Building at [Purple Gaze](https://purplegaze.io/), an eye-tracking company, where I work as a data scientist.
 
 ## 🚨 Latest News!
 

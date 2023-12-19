@@ -21,7 +21,7 @@ As the recipient of this award, I was required to write a report on controversie
 
 - Winner of the **"Ciencia por Contar" scholarship**. Ministry of Science and Technology, Presidency of the Argentine Nation. December 2022.
 
-- Winner of a \textbf{scholarship to attend to "Khipu" (Latin American Meeting In Artificial Intelligence)}. Universidad de la Republica, Uruguay. November 2019.
+- Winner of a **scholarship to attend to "Khipu" (Latin American Meeting In Artificial Intelligence)**. Universidad de la Republica, Uruguay. November 2019.
 
 - Winner of the **scholarship for an academic stay at the University of Barcelona** as visiting teacher selected by the University of Buenos Aires. June 2019.
 
