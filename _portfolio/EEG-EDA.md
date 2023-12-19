@@ -1,0 +1,23 @@
+---
+title: "The EEG-EDA Connection: Insights into Emotional Arousal Dynamics"
+excerpt: "<span style='font-size: smaller;'> Predictive modeling of electrodermal activity (EDA) using EEG, as a proxy of emotional arousal. </span> <br/>
+          <img src='/images/EDA-EEG_project.png' style='width: 488px; height: 284px;'>
+          "
+collection: portfolio
+---
+
+Arousal, a critical component of processes such as vigilance, alertness, attention, and emotion, is intricately linked to both the central and peripheral nervous systems. This project investigates the complex relationship between neural activity and behavioral measures associated with arousal. Our goal is to unravel the coupling dynamics between these elements to improve our understanding of arousal mechanisms.
+
+We've adopted an innovative two-step approach. The first step involves using electroencephalography (EEG) to decode electrodermal activity, a key peripheral marker of arousal. The second step tests whether this predicted electrodermal activity can serve as a proxy for subjective arousal, potentially improving our models for predicting these affective states.
+
+<img src='/images/EDA-EEG_project.png'>
+
+Our methodology focuses on predictive modeling from EEG signals, using spatial filters to reduce dimensionality and better reveal the sources of arousal. We've developed a regression pipeline that allows us to predict electrodermal responses to specific events based on EEG data.
+
+Preliminary results have been enlightening yet challenging, demonstrating the complexity of predicting electrodermal activity from EEG signals alone. This research isn't just about linking two types of physiological data; it's a journey toward a more integrated understanding of how arousal manifests and affects our minds and bodies.
+
+...
+
+*<span style="font-size:smaller;"> This project was part of my master thesis at the École Normale Supérieure (ENS, Paris) and my internship in the Parietal team (Inria).</span>*
+
+*<span style="font-size:smaller;">You can download a PDF copy of my master's thesis [here](/files/Thesis_INRIA_damelio.pdf).</span>*
