@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tomás D'Amelio, a researcher (in progress) deeply involved in explore and teaching at the intersection of *affective neuroscience* and *affective computing*. 
+I am Tomás D'Amelio, a researcher (in progress) deeply involved in explore, teaching and build at the intersection of *affective neuroscience* and *affective computing*. 
 
 My academic background at the University of Buenos Aires, the University of Barcelona, and the École Normale Supérieure (Paris) provided me with training in **psychology**, **neuroscience**, and **machine learning** to:
 
