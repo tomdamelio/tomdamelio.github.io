@@ -1,5 +1,5 @@
 ---
-title: "Acute_effects_of_psilocybin"
+title: "Acute effects of psilocybin on the dynamics of gaze fixations during visual aesthetic perception"
 collection: publications
 permalink: /publication/Acute_effects_of_psilocybin
 excerpt: ''

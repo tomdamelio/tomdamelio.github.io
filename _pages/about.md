@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Tomás D'Amelio, a researcher (in progress) deeply involved in exploring, building and teaching at the intersection of *affective neuroscience* and *affective computing*. 
+I am Tomás D'Amelio, a researcher (in progress) deeply involved in exploring, building and teaching at the intersection of *affective computing* and *affective neuroscience*. 
 
-My academic background at the University of Buenos Aires, the University of Barcelona, and the École Normale Supérieure (Paris) provided me with training in **psychology**, **neuroscience**, and **machine learning** to:
+My academic background at the University of Buenos Aires, the University of Barcelona, and the École Normale Supérieure (Paris) provided me with training in **psychology**, **neuroscience**, **design**, and **machine learning** to:
 
-1. Expand the scope of questions to be answered about human emotions. 
+1. Identify and analyze physiological biomarkers of <span style="color:#FF6666;">**emotions**</span>.
 2. Implement technological advancements to apply this knowledge in practice and improve people's lives. 
 
 
 
 Beyond the academic world, I am passionate about making knowledge of neuroscience and human behavior accessible and beneficial to different sectors of society.
 
-In this pursuit, I co-founded [Neurotransmitiendo](https://www.neurotransmitiendo.org/), a communication and education NGO in neuroscience and psychology in Latin America with a 20,000 community. Additionally, I am the team leader of [NeuroTechX](https://neurotechx.com/) Buenos Aires, where we endeavor to grow the neurotech industry in the region. 
+In this pursuit, I co-founded [Neurotransmitiendo](https://www.neurotransmitiendo.org/), a communication and education NGO in neuroscience and psychology in Latin America with over 20,000 followers. Additionally, I am the team leader of [NeuroTechX](https://neurotechx.com/) Buenos Aires, where we endeavor to grow the neurotech industry in the region. 
 
-Building at [Purple Gaze](https://purplegaze.io/), an eye-tracking company, where I work as a data scientist.
+Building at [Purple Gaze](https://purplegaze.io/), an eye-tracking company, where I contribute as a data scientist.
 
 ## 🚨 Latest News!
 
