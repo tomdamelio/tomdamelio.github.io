@@ -10,10 +10,10 @@ redirect_from:
 
 I am Tomás D'Amelio, a researcher (in progress) deeply involved in exploring, building and teaching at the intersection of *affective computing* and *affective neuroscience*. 
 
-My academic background at the University of Buenos Aires, the University of Barcelona, and the École Normale Supérieure (Paris) provided me with training in **psychology**, **neuroscience**, **design**, and **machine learning** to:
+My academic background at the University of Buenos Aires, the University of Barcelona, and the École Normale Supérieure (Paris) provided me with training in **psychology**, **neuroscience**, and **machine learning** to:
 
 1. Identify and analyze physiological biomarkers of <span style="color:#FF6666;">**emotions**</span>.
-2. Implement technological advancements to apply this knowledge in practice and improve people's lives. 
+2. Applying technological advances for practical use, such as creating automated stress and anxiety detection systems useful for prognosis, diagnosis and monitoring of mental health conditions.
 
 
 
@@ -26,7 +26,11 @@ Building at [Purple Gaze](https://purplegaze.io/), an eye-tracking company, wher
 ## 🚨 Latest News!
 
 ### 📆 **December**
-Excited to share my latest preprint: 'Exploring the underlying emotional models in emotion recognition systems with electrodermal activity.' Check it out for insights into affective computing and neuroscience! Available now on [PsyArXiv](https://osf.io/preprints/psyarxiv/agruw). 
+Excited to share my latest preprint: 'Exploring the underlying emotional models in emotion recognition systems with electrodermal activity'.
+
+Check it out for insights into affective computing and neuroscience!
+
+Available now on [PsyArXiv](https://osf.io/preprints/psyarxiv/agruw). 
 
 ### 📆 **September**
 - I presented my paper titled "Affective Computing as a Tool for Understanding Emotion Dynamics from Physiology: A Predictive Modeling Study of Arousal and Valence" at [ACII 2023](https://acii-conf.net/2023/), hosted by the MIT Media Lab (Boston)
