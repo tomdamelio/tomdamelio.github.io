@@ -13,7 +13,7 @@ I am Tomás D'Amelio, a researcher (in progress) deeply involved in exploring, b
 My academic background at the University of Buenos Aires, the University of Barcelona, and the École Normale Supérieure (Paris) provided me with training in **psychology**, **neuroscience**, and **machine learning** to:
 
 1. Identify and analyze physiological biomarkers of <span style="color:#FF6666;">**emotions**</span>.
-2. Applying technological advances for practical use, such as creating automated stress and anxiety detection systems useful for prognosis, diagnosis and monitoring of mental health conditions.
+2. Apply technological advances for practical use, such as creating automated stress and anxiety detection systems useful for prognosis, diagnosis and monitoring of mental health conditions.
 
 
 
