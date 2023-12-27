@@ -15,6 +15,9 @@ main:
   #- title: "Blog Posts"
   # url: /year-archive/
 
+  - title: "Applied Impact"
+    url: /applied_impact/
+
   - title: "Community Building"
     url: /community_building/
 

@@ -184,6 +184,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  applied_impact:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _applied_impact
+  - scope:
+      path: ""
+      type: applied_impact
     values:
       layout: single
       author_profile: true
