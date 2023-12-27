@@ -13,13 +13,17 @@ main:
     url: /projects/
         
   #- title: "Blog Posts"
-   # url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  # url: /year-archive/
+
+  - title: "Community Building"
+    url: /community_building/
 
   - title: "Awards"
     url: /awards/
     
+  - title: "CV"
+    url: /cv/
+
+
   #- title: "Guide"
    # url: /markdown/
