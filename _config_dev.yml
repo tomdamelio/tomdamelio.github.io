@@ -1,0 +1,6 @@
+# Local-preview overrides. Not used by the production build.
+# ImageMagick is not installed on this machine, so responsive image
+# generation is skipped locally. CI (GitHub Actions) installs it and
+# builds with the settings in _config.yml.
+imagemagick:
+  enabled: false
