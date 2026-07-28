@@ -2,7 +2,7 @@
 layout: page
 title: EEG, fNIRS and physiology in immersive VR
 description: Simultaneous co-registration of cortical haemodynamics, electrophysiology and peripheral signals during virtual rollercoasters and immersive video.
-img: assets/img/500x300.png
+img: assets/img/logo_telefonica.png
 importance: 1
 category: industry
 ---

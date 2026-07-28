@@ -2,7 +2,7 @@
 layout: page
 title: RECOGNeyes
 description: A clinical trial of an eye-tracking game for training attention in children with ADHD, built with a neurotech startup.
-img: assets/img/RECOGNeyes_1.png
+img: assets/img/logo_braingaze.png
 importance: 3
 category: industry
 ---

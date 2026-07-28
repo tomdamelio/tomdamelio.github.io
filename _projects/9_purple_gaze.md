@@ -2,7 +2,7 @@
 layout: page
 title: Eye-tracking data science in industry
 description: Building the analysis pipeline and experimental protocols behind an eye-tracking company's move into brain research.
-img: assets/img/Purple_Gaze_3.png
+img: assets/img/logo_purplegaze.png
 importance: 2
 category: industry
 ---
