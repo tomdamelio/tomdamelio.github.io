@@ -8,6 +8,15 @@ nav_order: 2
 horizontal: false
 ---
 
+<style>
+  /* Match the card titles to the page heading: same family, same light weight. */
+  .projects .card-title {
+    font-weight: 300;
+    font-size: 1.6rem;
+    line-height: 1.25;
+  }
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
   {% assign sorted_projects = site.projects | sort: "importance" %}
