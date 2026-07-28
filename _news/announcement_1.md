@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-13 09:00:00-0300
+date: 2026-06-22 09:00:00-0300
 inline: true
 related_posts: false
 ---
 
-New preprint: _Exploring the underlying emotional models in emotion recognition systems with electrodermal activity_. Available on [PsyArXiv](https://osf.io/preprints/psyarxiv/agruw).
+Taking part in the [Gatsby Bridging Programme](https://www.ucl.ac.uk/life-sciences/gatsby/study-and-work/gatsby-bridging-programme), a seven-week intensive summer school in mathematics for theoretical neuroscience and machine learning, run by UCL's Gatsby Computational Neuroscience Unit.

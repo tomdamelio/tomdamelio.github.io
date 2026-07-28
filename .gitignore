@@ -15,3 +15,6 @@ node_modules/
 output/playwright/
 test-results/
 vendor
+
+# Internal working notes (positioning strategy) — not for the public repo
+content-draft/

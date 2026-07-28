@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-07-01 09:00:00-0300
+date: 2026-02-27 09:00:00-0300
 inline: true
 related_posts: false
 ---
 
-We won 3rd place in the [EPiC Challenge](https://epic-collab.github.io/competition/) for continuous affective state prediction using physiological signals, organized by Stanford University.
+Visiting researcher with the Neuroscience group at Telefónica Innovación Digital, working on simultaneous EEG, fNIRS and peripheral physiology during virtual rollercoasters and immersive VR video.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-15 09:00:00-0300
+date: 2026-04-30 09:00:00-0300
 inline: true
 related_posts: false
 ---
 
-I presented my paper _Affective Computing as a Tool for Understanding Emotion Dynamics from Physiology: A Predictive Modeling Study of Arousal and Valence_ at [ACII 2023](https://acii-conf.net/2023/), hosted by the MIT Media Lab (Boston).
+New preprint, as first author: _Multimodal autonomic arousal tracks dose-dependent affective dynamics during the acute effects of DMT_. Available on [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.30.721872).

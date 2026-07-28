@@ -17,6 +17,8 @@ One of our notable achievements was leading the Buenos Aires chapter in a two-da
 
 At NeuroTechX, we have successfully grown our community on Slack to over 200 active members. This growth has fostered a dynamic environment for discussion, collaboration, and knowledge sharing in the field of neurotechnology.
 
+This work also led to an invitation to join **UNESCO's expert committee** at the Latin American meeting convened to discuss the ethical challenges of neurotechnologies.
+
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/NeuroTechX_2.png" class="img-fluid rounded z-depth-1" %}

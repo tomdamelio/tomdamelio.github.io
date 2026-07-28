@@ -9,11 +9,12 @@ last_name: D'Amelio
 contact_note: >
   The fastest way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Researcher at the intersection of affective computing and affective neuroscience.
+  PhD candidate in neuroscience and mathematics. Decoding affect from the brain and the body,
+  and building the data and benchmarks that test it.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: affective computing, affective neuroscience, electrodermal activity, emotion recognition, machine learning
+keywords: computational neuroscience, machine learning, foundation models, EEG, physiological signals, affective computing, affective neuroscience, representation learning, emotion recognition
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -180,12 +181,10 @@ collections:
     output: true
   projects:
     output: true
-  applied_impact:
-    output: true
-    permalink: /applied_impact/:name/
+    permalink: /industry/:name/
   community_building:
     output: true
-    permalink: /community_building/:name/
+    permalink: /community/:name/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-01 09:00:00-0300
+date: 2026-04-22 09:00:00-0300
 inline: true
 related_posts: false
 ---
 
-Honored to have been selected as the [Chen Science Writer](https://acii-conf.net/2023/attend/chen-science-writer/) for ACII 2023, exploring the most pressing challenges and future directions in affective computing during the conference.
+New preprint: _Decoding the phenomenology of spontaneous thought using large language-model ratings on verbal retrospective free reports_. Available on [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.22.720079).

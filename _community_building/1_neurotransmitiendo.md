@@ -11,9 +11,13 @@ My career in psychology and neuroscience has always been linked to my passion fo
 
 In 2019, together with a team of colleagues, we identified a critical gap in the representation and communication of topics related to human behavior, neuroscience, and mental health in our region. Far too often, these topics were either misunderstood or trivialized, resulting in a landscape full of misinformation.
 
-Founded as an Argentine NGO, NeuroTransmitiendo's mission is to provide accurate, in-depth, and accessible information about human behavior, neuroscience, and mental health. Our initiative quickly rose to prominence, becoming the largest Latin American community dedicated to disseminating scientific knowledge about human behavior (with over 20,000 followers) and debunking common myths about mental health, including key issues such as suicide, anxiety, and depression.
+Our mission is to provide accurate, in-depth and accessible information about human behavior, neuroscience and mental health. The initiative grew quickly into one of the largest Latin American communities dedicated to disseminating scientific knowledge about human behavior — **over 33,000 followers** and a team of **more than 30 researchers** — debunking common myths about mental health, including key issues such as suicide, anxiety and depression.
 
 To achieve these goals, we create content on [Instagram](https://www.instagram.com/neurotransmitiendo/) through informative posts and use our [podcast](https://open.spotify.com/show/4h97z3s1rTwM2gKH8bYd1J) to interview renowned neuroscientists from across Latin America. I contribute to the podcast as an interviewer and general producer, delving into a wide range of topics in the field of neuroscience.
+
+Since then the organization has grown well beyond communication. I created and directed a **Diploma Program in Cognitive Neuroscience**, with over 300 students — more than 40% of them on scholarships — taught by faculty from leading international universities. I also founded and organized the **first Latin American Conference of Cognitive Neuroscience** in 2025, now in its second edition, which across both years has drawn over 400 attendees and more than 100 posters.
+
+I have served on the Board of Directors since the organization was founded, with responsibilities in nonprofit governance, strategic planning and organizational development.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
