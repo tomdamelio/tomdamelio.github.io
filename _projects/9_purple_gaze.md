@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Eye-tracking data science in industry
-description: Building the analysis pipeline and experimental protocols behind an eye-tracking company's move into brain research.
+title: Built the pipeline behind a commercial eye tracker
+description: "Data scientist for the company's move into brain research: the analysis pipeline, plus experimental protocols for detecting neurodevelopmental and neurodegenerative markers."
 img: assets/img/logo_purplegaze.png
-importance: 2
+importance: 1
 category: industry
 ---
 
