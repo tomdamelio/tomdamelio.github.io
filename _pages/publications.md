@@ -2,7 +2,6 @@
 layout: page
 permalink: /research/
 title: research
-description: Peer-reviewed articles, preprints and conference papers, in reverse chronological order.
 nav: true
 nav_order: 1
 ---
