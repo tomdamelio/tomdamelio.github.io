@@ -2,7 +2,7 @@
 layout: page
 title: community
 permalink: /community/
-description: SUBTITLE_PLACEHOLDER
+description: Neuroscience education, neurotech community and policy in Latin America.
 nav: true
 nav_order: 3
 ---
