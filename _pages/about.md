@@ -37,3 +37,10 @@ That mix of psychology and modelling is where I trained: a BSc in Psychology and
 I teach as well, as Professor of Biology (Neuroscience) at the University of Buenos Aires and Professor of Data Analysis in the MSc in Behavioural Science at Universidad de San Andrés.
 
 I also co-founded [Neurotransmitiendo](https://www.neurotransmitiendo.org/), one of the largest neuroscience education communities in the Spanish-speaking world, and [NeuroTechX Buenos Aires](https://neurotechx.com/), the local chapter of the world's largest neurotechnology community.
+
+<style>
+  /* Halve the size of the contact icons at the bottom of the page. */
+  .contact-icons {
+    font-size: 2rem;
+  }
+</style>
