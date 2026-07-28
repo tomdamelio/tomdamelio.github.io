@@ -11,7 +11,7 @@ category: temporal dynamics
 
 Summary annotations mean recording participants' physiological responses while they experience a given affective state, but collecting the rating only once the induction is over. That has two costs: far fewer data points to train on, and an oversimplified account of emotion that denies its natural dynamics.
 
-**What I did.** I led our team in the [Emotion Physiology and Experience Collaboration (EPiC) 2023 challenge](https://epic-collab.github.io/competition/), building continuous predictive models of valence and arousal from the eight physiological measures in the [Continuously Annotated Signals of Emotion (CASE) dataset](https://www.nature.com/articles/s41597-019-0209-0), and then analysing *which parts of the temporal window* the models actually relied on.
+**What I did.** I led our team in the [Emotion Physiology and Experience Collaboration (EPiC) 2023 challenge](https://epic-collab.github.io/competition/), building continuous predictive models of valence and arousal from the eight physiological measures in the [Continuously Annotated Signals of Emotion (CASE) dataset](https://www.nature.com/articles/s41597-019-0209-0), and then analysing _which parts of the temporal window_ the models actually relied on.
 
 **Method.** Continuous regression of valence and arousal across four held-out generalization scenarios; feature-importance analysis partitioning the window into pre-annotation, concurrent and post-annotation information; comparison against dummy baselines and the published benchmark.
 
@@ -37,7 +37,7 @@ Moreover, our analysis revealed a crucial insight: predictive models that incorp
     <b>Fig. 2.</b> Distribution of feature importance for the 240 models trained in scenario 1. It illustrates the distribution of feature importance by partitioning the window into past (pre-annotation), present (during annotation), and future (post-annotation) information. Boxplots, violin plots and scatterplots are used to visualize the feature importance distributions.
 </div>
 
-This suggests a fundamental role for physiological activity as a *precursor* to affective experience and its subsequent annotation — the body moves before the report. For anyone building models of affect from physiology, that ordering is not a detail: it determines what a model is allowed to see, and when.
+This suggests a fundamental role for physiological activity as a _precursor_ to affective experience and its subsequent annotation — the body moves before the report. For anyone building models of affect from physiology, that ordering is not a detail: it determines what a model is allowed to see, and when.
 
 **Role and collaborators.** Team lead and first author, with Nicolás Bruno, Leandro Bugnon, Federico Zamberlan and Enzo Tagliazucchi. The challenge was organised by Stanford University, and results were presented at the EPiC workshop at ACII 2023, hosted by the MIT Media Lab.
 

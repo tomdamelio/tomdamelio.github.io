@@ -15,7 +15,7 @@ category: applied and industry
 
 **Result.** Two interventions designed from field data, each with a defined evaluation protocol so its effectiveness could be measured rather than assumed. The goal was both to improve citizens' relationship with water in the city and to increase participation in the Hydraulic Plan platform.
 
-**Why it is here.** The insistence on a measurement protocol *before* deployment is the same commitment that shows up in my research: an intervention or a model whose effect cannot be evaluated is not a result.
+**Why it is here.** The insistence on a measurement protocol _before_ deployment is the same commitment that shows up in my research: an intervention or a model whose effect cannot be evaluated is not a result.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">

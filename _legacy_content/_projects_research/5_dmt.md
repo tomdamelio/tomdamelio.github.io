@@ -11,7 +11,7 @@ category: perturbing the system
 
 **What I did.** First-author work analysing multimodal autonomic measures during the acute effects of DMT at medium and high doses, and relating them to the dynamics of reported experience. Participants underwent EEG and peripheral recording (EDA and ECG) before and during the acute effects of inhaled DMT or placebo, in a within-subject design.
 
-**Method.** After the experience, participants engaged in *experience tracing*: a continuous, multidimensional description across 15 dimensions, including affective components such as boredom, alertness and emotional intensity. This makes it possible to computationally reconstruct shared experiential states, and so to align time-resolved autonomic measures against the dynamics of subjective experience rather than against a single post-hoc rating.
+**Method.** After the experience, participants engaged in _experience tracing_: a continuous, multidimensional description across 15 dimensions, including affective components such as boredom, alertness and emotional intensity. This makes it possible to computationally reconstruct shared experiential states, and so to align time-resolved autonomic measures against the dynamics of subjective experience rather than against a single post-hoc rating.
 
 **Result.** Multimodal autonomic arousal tracks dose-dependent affective dynamics — peripheral signals carry information about the temporal structure of the experience, not merely its intensity. More broadly, the approach turns the narrative aspect of the stream of consciousness into measurable data.
 

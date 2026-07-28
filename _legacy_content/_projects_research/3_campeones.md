@@ -7,7 +7,7 @@ importance: 1
 category: temporal dynamics
 ---
 
-**Question.** What are the neural and physiological correlates of moment-to-moment affective experience, when the experience is reported *as it happens* rather than reconstructed afterwards?
+**Question.** What are the neural and physiological correlates of moment-to-moment affective experience, when the experience is reported _as it happens_ rather than reconstructed afterwards?
 
 **What I did.** I lead the design and collection of a multimodal dataset in which participants report their emotional state continuously and in real time inside immersive virtual environments, while we record EEG, EOG, EMG, ECG, EDA and respiration simultaneously. The design targets the two weaknesses of existing affective datasets at once: naturalistic, strongly immersive induction, and dense temporal supervision.
 

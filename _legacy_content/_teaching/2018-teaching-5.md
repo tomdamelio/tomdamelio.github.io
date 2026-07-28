@@ -8,5 +8,5 @@ date: 2018-03-01
 location: "Buenos Aires, Argentina"
 ---
 
-* Taught undergraduate courses in topics that include: Experimental design, Statistics, EEG and  electrodermal activity.
-* Prepared course material including: laboratory experiments, lectures, slides, and practice problems.
+- Taught undergraduate courses in topics that include: Experimental design, Statistics, EEG and electrodermal activity.
+- Prepared course material including: laboratory experiments, lectures, slides, and practice problems.

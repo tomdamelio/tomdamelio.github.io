@@ -7,7 +7,7 @@ importance: 2
 category: learning representations
 ---
 
-**Question.** Can a large pretrained language model reliably quantify the *content* of subjective experience from free verbal reports — and does that quantification recover structure that brain activity also predicts?
+**Question.** Can a large pretrained language model reliably quantify the _content_ of subjective experience from free verbal reports — and does that quantification recover structure that brain activity also predicts?
 
 **What I did.** Co-authored work in which LLM-generated ratings are applied to retrospective free reports of spontaneous thought, producing a continuous, high-dimensional description of phenomenology where the field normally relies on coarse questionnaires. A companion line of work combined those ratings with EEG to decode the phenomenology of spontaneous thought directly from brain activity.
 

@@ -8,4 +8,4 @@ date: 2023-03-01
 location: "Buenos Aires, Argentina"
 ---
 
-* Supervised +10 undergraduate students in their bachelor thesis.
+- Supervised +10 undergraduate students in their bachelor thesis.

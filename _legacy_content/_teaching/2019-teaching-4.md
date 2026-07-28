@@ -8,4 +8,4 @@ date: 2019-03-01
 location: "Buenos Aires, Argentina"
 ---
 
-* Taught undergraduate courses in cognitive neuroscience topics that include: *attention, consciousness, emotions, learning and memory*. 
+- Taught undergraduate courses in cognitive neuroscience topics that include: _attention, consciousness, emotions, learning and memory_.

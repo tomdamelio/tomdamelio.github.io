@@ -8,4 +8,4 @@ date: 2019-03-01
 location: "Buenos Aires, Argentina"
 ---
 
-* Teaching undergraduate courses in topics that include: neuronal physiology, neurotransmission, macroscopic neuroanatomy and psychopharmacology.
+- Teaching undergraduate courses in topics that include: neuronal physiology, neurotransmission, macroscopic neuroanatomy and psychopharmacology.
