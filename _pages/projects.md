@@ -2,7 +2,7 @@
 layout: page
 title: industry
 permalink: /industry/
-description: Neurotechnology research and data science in industry.
+description: Neurotechnology research and data science with companies.
 nav: true
 nav_order: 2
 horizontal: false
