@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD candidate</p>
-    <p>Neuroscience + Mathematics</p>
+    <p>Neuroscience</p>
     <p style="display: block; margin-top: 0.6rem; font-size: 0.85rem; line-height: 1.45; color: var(--global-text-color-light);">Supervised by <a href="https://scholar.google.com/citations?user=pK7ZGlkAAAAJ">Enzo Tagliazucchi</a><br>and <a href="https://scholar.google.com/citations?user=krbBtukAAAAJ">Diego Vidaurre</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
