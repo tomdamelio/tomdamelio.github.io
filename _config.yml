@@ -234,6 +234,7 @@ exclude:
   - content-draft/
   - AGENTS.md
   - CLAUDE.md
+  - innova-educa/ # prebuilt Slidev deck, copied as-is by the deploy workflow
   - requirements.txt
 keep_files:
   - CNAME
