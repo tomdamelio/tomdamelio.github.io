@@ -236,6 +236,7 @@ exclude:
   - CLAUDE.md
   - innova-educa/ # prebuilt Slidev deck, copied as-is by the deploy workflow
   - sfn2026/ # prebuilt Slidev deck, copied as-is by the deploy workflow
+  - sfn2026-with-notes/ # same deck with speaker notes and appendix; unlisted, copied as-is
   - requirements.txt
 keep_files:
   - CNAME
