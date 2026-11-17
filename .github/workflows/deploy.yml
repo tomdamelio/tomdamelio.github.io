@@ -105,7 +105,9 @@ jobs:
           purgecss -c purgecss.config.js
       - name: Copy prebuilt slide decks 🖼️
         # Slidev decks are already built; copied as-is so the Jekyll minifiers don't touch them.
-        run: cp -r innova-educa _site/innova-educa
+        run: |
+          cp -r innova-educa _site/innova-educa
+          cp -r sfn2026 _site/sfn2026
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
